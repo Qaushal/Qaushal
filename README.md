@@ -79,7 +79,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 <p  align="center"><em>I love connecting with people 📶 so if you want to say hi, I'll be more happy to meet you 🤝!</em></p>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalariyakaushal7@gmail.com)](mailto:brijeshvadaliya1@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalariyakaushal7@gmail.com)](mailto:kalariyakaushal7@gmail.com)
 
 
 
