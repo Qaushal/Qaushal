@@ -16,7 +16,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 - 🔭 I’m currently working on something refreshing 
 - 🌱 I’m currently learning Html,CSS,Javascript.
 - 💬 Ask me about anything 😅
-- 📫 How to reach me:  kalariyakaushal7@gmail.com
+- 📫 How to reach me:  kalariyakaushal8@gmail.com
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I ❤️ 👨‍💻 
 
