@@ -39,19 +39,29 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 ### 🛠 &nbsp;Technologies and Tools
 
 <p  align="center">
+<img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img  alt="JAVASCRIPT"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+<p  align="center">
+<img  alt="C"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img  alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img  alt="JAVA"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+<p  align="center">
 <img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img  alt="Atom"  src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 
 </p>
 
 <p  align="center">
-<img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-
-<p  align="center">
 <img  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
+
+
+
 
 ### 🛠 &nbsp;Learning 📝 Tools and Platforms
 
@@ -72,6 +82,9 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
 <img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img  alt="Notion"  src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img  alt="Cisco"  src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+
 </p>
 
 
@@ -86,11 +99,25 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 <br />
 
-
-### 🔆 Random Quote:
+<p align="center">
+🔆 Random Quote:
+</p>
+<p align="center"
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+<p align="center">
+😂 Random Dev Meme:
+</p>
+<p align = "center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</p>
+
+---
+
+
+
 
 
 
