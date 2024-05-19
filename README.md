@@ -107,12 +107,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
-<p align="center">
-😂 Random Dev Meme:
-</p>
-<p align = "center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+
 
 ---
 
